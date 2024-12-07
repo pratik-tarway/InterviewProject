@@ -145,3 +145,13 @@ There are two types of users:
 
 ---
 
+
+## Screenshots
+![screencapture-localhost-5173-home-2024-12-07-13_24_13](https://github.com/user-attachments/assets/fde93ae9-c148-4ea2-8183-c0f1d02551bd)
+
+
+---
+
+
+
+
