@@ -111,7 +111,7 @@ npm install
 Run the React app:
 
 ```
-npm dev run
+npm run dev
 ```
 
 The React frontend will be available at `http://localhost:3000` (default).
