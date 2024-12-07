@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pratik\\Documents\\InterviewProject\\Backend\\ProductManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06BCD9CE-9F8E-42D7-9009-06D6EEE721CE}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\pratik\\documents\\interviewproject\\backend\\productmanagementapi\\productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BCD9CE-9F8E-42D7-9009-06D6EEE721CE}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pratik\\Documents\\InterviewProject\\Backend\\ProductManagementAPI\\ProductManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\pratik\\Documents\\InterviewProject\\Backend\\ProductManagementAPI\\ProductManagementAPI\\Program.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAZ2ZmZmYkwGcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:10:26.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

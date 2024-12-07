@@ -1,0 +1,35 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Database files
+*.db
+
+# Dependency directories
+packages/
+node_modules/
+
+# Environment variables
+.env
+secrets.json
+
+# Resharper and Rider files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# macOS and Windows specific files
+.DS_Store
+Thumbs.db
